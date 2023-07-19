@@ -1,0 +1,16 @@
+body {
+    background-color: #D5E1EF;
+}
+
+main {
+    height: 95vh;
+}
+
+.card {
+    width: 18rem;
+    border: none;
+}
+
+p {
+    color: rgb(172, 172, 172);
+}
